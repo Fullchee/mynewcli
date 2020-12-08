@@ -19,7 +19,7 @@ $ npm install -g mynewcli
 $ mynewcli COMMAND
 running command...
 $ mynewcli (-v|--version|version)
-mynewcli/0.0.0 darwin-x64 node-v14.10.1
+mynewcli/0.0.0 darwin-x64 node-v12.16.3
 $ mynewcli --help [COMMAND]
 USAGE
   $ mynewcli COMMAND
